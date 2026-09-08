@@ -3,13 +3,14 @@
 This is the GitHub repository for the University of Nottingham Bioinformatics MSc LIFE4138 Computational Biology module. 
 
 For more info:
-👩🏻‍💻 Dr Hannah Jackson [module convneor]
-📍 Office B108, Life Sciences Building
-✉️ Hannah.Jackson@nottingham.ac.uk
 
-👩🏻‍💻 Prof Matt Loose
-📍 Office D12, DeepSeq, Queen's Medical Centre
-✉️ Matt.Loose@nottingham.ac.uk
+* 👩🏻‍💻 Dr Hannah Jackson [module convneor]
+* 📍 Office B108, Life Sciences Building
+* ✉️ Hannah.Jackson@nottingham.ac.uk
+
+* 👩🏻‍💻 Prof Matt Loose
+* 📍 Office D12, DeepSeq, Queen's Medical Centre
+* ✉️ Matt.Loose@nottingham.ac.uk
 
 Here, you will find all the necessary materials for this module.
 
