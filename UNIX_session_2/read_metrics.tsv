@@ -1,0 +1,6 @@
+sample	reads	mean_length	status
+sample_A	12500	8400	PASS
+sample_B	9800	7100	PASS
+sample_C	3100	2400	FAIL
+sample_D	15100	9200	PASS
+
