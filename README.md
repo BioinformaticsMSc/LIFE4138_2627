@@ -11,7 +11,7 @@ For more info:
   --------
 
 * 👩🏻‍💻 Prof Matt Loose
-* 📍 Office D12, DeepSeq, Queen's Medical Centre
+* 📍 DeepSeq, D floor, Queen's Medical Centre
 * ✉️ Matt.Loose@nottingham.ac.uk
 
 
