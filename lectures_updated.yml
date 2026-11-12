@@ -1,0 +1,24 @@
+name: lectures
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - pip
+  - git
+  - python==3.12
+  - setuptools
+  - wheel
+  - minimap2
+  - samtools
+  - pandoc
+  - nbconvert
+  - r-base
+  - r-tidyverse
+  - pip:
+      - jupyterlab
+      - jupyterlab-rise
+      - cowsay
+      - biopython
+      - pandas
+      - matplotlib
+      - seaborn
